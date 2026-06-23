@@ -33,5 +33,17 @@ export const profileConfig: ProfileConfig = {
 			url: "mailto:861999067@qq.com",
 			showName: false,
 		},
+		{
+			name: "QQ群",
+			icon: "fa7-brands:qq",
+			url: "https://qun.qq.com/universal-share/share?ac=1&authKey=AJcp%2BhBCHuoSUVadAf%2B8P95IGRiSYhP%2B1YUw5KY3aWzRoHRCwproI2Lbh6al1WCL&busi_data=eyJncm91cENvZGUiOiI5MDE5NjE4OTkiLCJ0b2tlbiI6Inl0bnNsMTh2UFFkSDJIYURhMjl3WnhhMVYxNHlNZHlEbFhqaE9WSHhvS3dqRGxveUNjaEFTbTlkRDZYdDE2ekMiLCJ1aW4iOiI4NjE5OTkwNjcifQ==&data=ReaN9HEFyhFO3yNw56Vyfb5igYVv7UtSRDbaoU33ojzqeS-S1vQTsNca4zpdzUV6yHC1q6uilAHBz9jV1-LPtA&svctype=4&tempid=h5_group_info",
+			showName: false,
+		},
+		{
+			name: "RSS",
+			icon: "fa7-solid:rss",
+			url: "/rss/",
+			showName: false,
+		},
 	],
 };

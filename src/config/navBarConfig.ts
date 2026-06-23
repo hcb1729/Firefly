@@ -76,19 +76,19 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		children: [
 			{
 				name: "GitHub",
-				url: "https://github.com/CuteLeaf/Firefly",
+				url: "https://github.com/hcb1729",
 				external: true,
 				icon: "fa7-brands:github",
 			},
 			{
 				name: "Gitee",
-				url: "https://gitee.com/CuteLeaf/Firefly",
+				url: "https://gitee.com/goldkk",
 				external: true,
 				icon: "fa7-brands:gitee",
 			},
 			{
 				name: "QQ交流群",
-				url: "https://qm.qq.com/q/ZGsFa8qX2G",
+				url: "https://qun.qq.com/universal-share/share?ac=1&authKey=AJcp%2BhBCHuoSUVadAf%2B8P95IGRiSYhP%2B1YUw5KY3aWzRoHRCwproI2Lbh6al1WCL&busi_data=eyJncm91cENvZGUiOiI5MDE5NjE4OTkiLCJ0b2tlbiI6Inl0bnNsMTh2UFFkSDJIYURhMjl3WnhhMVYxNHlNZHlEbFhqaE9WSHhvS3dqRGxveUNjaEFTbTlkRDZYdDE2ekMiLCJ1aW4iOiI4NjE5OTkwNjcifQ==&data=ReaN9HEFyhFO3yNw56Vyfb5igYVv7UtSRDbaoU33ojzqeS-S1vQTsNca4zpdzUV6yHC1q6uilAHBz9jV1-LPtA&svctype=4&tempid=h5_group_info",
 				external: true,
 				icon: "fa7-brands:qq",
 			},

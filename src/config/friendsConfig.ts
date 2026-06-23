@@ -50,6 +50,15 @@ export const friendsConfig: FriendLink[] = [
 		weight: 8,
 		enabled: true,
 	},
+	{
+		title: "",
+		imgurl: "",
+		desc: "",
+		siteurl: "",
+		tags: [""],
+		weight: 7,
+		enabled: false,
+	},
 ];
 
 // 获取启用的友链并进行排序

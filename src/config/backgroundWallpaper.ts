@@ -64,7 +64,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 支持单个视频路径（字符串）或多个视频循环（数组）
 		// 支持远程视频URL，本地视频请放在 public/assets/videos/ 目录下
 	playerUrl: [
-			"https://www.bilibili.com/video/BV1jE421A7qK/?spm_id_from=333.337.search-card.all.click&vd_source=9ffde26206f9ca10209b08a1b03a1510.mp4",
+			"https://www.bilibili.com/video/BV1jE421A7qK/?spm_id_from=333.337.search-card.all.click&vd_source=9ffde26206f9ca10209b08a1b03a1510",
 		],
 	},
 	// 横幅壁纸和全屏壁纸共享配置
